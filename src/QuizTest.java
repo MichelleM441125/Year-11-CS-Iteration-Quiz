@@ -1,6 +1,7 @@
 import static org.junit.jupiter.api.Assertions.*;
 
-class QuizTest {
+
+class QuizTest{
 
     @org.junit.jupiter.api.Test
     void numberOfVowels() {
